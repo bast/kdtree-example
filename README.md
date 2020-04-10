@@ -8,3 +8,5 @@ How to run the demo:
 ```
 $ cargo run --release
 ```
+
+This example makes use of this wonderful library: https://github.com/mrhooray/kdtree-rs
